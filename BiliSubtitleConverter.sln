@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33620.401
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiliSubtitleConverter", "BiliSubtitleConverter.csproj", "{0A557CDE-DF4C-46E5-A12B-E3F5A8C4B47E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A557CDE-DF4C-46E5-A12B-E3F5A8C4B47E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A557CDE-DF4C-46E5-A12B-E3F5A8C4B47E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A557CDE-DF4C-46E5-A12B-E3F5A8C4B47E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A557CDE-DF4C-46E5-A12B-E3F5A8C4B47E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46CBD51B-05E0-49DE-A2BF-4E49D4EE0240}
+	EndGlobalSection
+EndGlobal
